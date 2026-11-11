@@ -13,4 +13,4 @@ and the No Agenda podcast.
 
 Plain static HTML, no build step. `index.html` is the whole site.
 
-Proposed and maintained by Chris Abraham · chris@gerriscorp.com
+Proposed and maintained by Chris Abraham · cja@well.com
